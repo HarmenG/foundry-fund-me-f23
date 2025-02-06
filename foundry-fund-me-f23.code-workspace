@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"terminal.integrated.cwd": "/home/harmen/Develpment/Patrick Collins/foundry-f23/foundry-fund-me-f23"
+	}
+}
